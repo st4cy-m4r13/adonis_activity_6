@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: asd
+Handle: sad
+Start Time: 2026-10-22 19:28:37.222219
+End Time: 2026-10-22 19:28:43.007717
+Duration (minutes): 0.10
+Score: 4/10
+Rating: BEGINNER
+---- Threat Logs ----
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.235 on port
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMTP Phishing Campaign
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: Proxy Web Exploit
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Failed login attempt detected from 192.168.1.132 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: HTTPS Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.41 on port
+-------------------
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.203 on port
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMB Ransomware Attack
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+===================================
